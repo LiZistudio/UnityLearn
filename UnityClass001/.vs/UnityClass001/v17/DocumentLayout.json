@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "E:\\UnityFiles\\UnityLearn\\UnityClass001\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3757A17-0474-7FF0-78EB-6FA355E1B35B}|Assembly-CSharp.csproj|E:\\UnityFiles\\UnityLearn\\UnityClass001\\assets\\model\\newsurfaceshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{D3757A17-0474-7FF0-78EB-6FA355E1B35B}|Assembly-CSharp.csproj|solutionrelative:assets\\model\\newsurfaceshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3757A17-0474-7FF0-78EB-6FA355E1B35B}|Assembly-CSharp.csproj|E:\\UnityFiles\\UnityLearn\\UnityClass001\\assets\\scripts\\dancecube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3757A17-0474-7FF0-78EB-6FA355E1B35B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dancecube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3757A17-0474-7FF0-78EB-6FA355E1B35B}|Assembly-CSharp.csproj|e:\\unityfiles\\unitylearn\\unityclass001\\assets\\scripts\\testscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3757A17-0474-7FF0-78EB-6FA355E1B35B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\testscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3757A17-0474-7FF0-78EB-6FA355E1B35B}|Assembly-CSharp.csproj|e:\\unityfiles\\unitylearn\\unityclass001\\assets\\scripts\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3757A17-0474-7FF0-78EB-6FA355E1B35B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NewSurfaceShader.shader",
-              "DocumentMoniker": "E:\\UnityFiles\\UnityLearn\\UnityClass001\\Assets\\Model\\NewSurfaceShader.shader",
-              "RelativeDocumentMoniker": "Assets\\Model\\NewSurfaceShader.shader",
-              "ToolTip": "E:\\UnityFiles\\UnityLearn\\UnityClass001\\Assets\\Model\\NewSurfaceShader.shader",
-              "RelativeToolTip": "Assets\\Model\\NewSurfaceShader.shader",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2024-02-18T12:05:13.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TestScript.cs",
-              "DocumentMoniker": "E:\\UnityFiles\\UnityLearn\\UnityClass001\\Assets\\Scripts\\TestScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TestScript.cs",
-              "ToolTip": "E:\\UnityFiles\\UnityLearn\\UnityClass001\\Assets\\Scripts\\TestScript.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TestScript.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Title": "Test.cs",
+              "DocumentMoniker": "E:\\UnityFiles\\UnityLearn\\UnityClass001\\Assets\\Scripts\\Test.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Test.cs",
+              "ToolTip": "E:\\UnityFiles\\UnityLearn\\UnityClass001\\Assets\\Scripts\\Test.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Test.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T05:04:44.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DanceCube.cs",
-              "DocumentMoniker": "E:\\UnityFiles\\UnityLearn\\UnityClass001\\Assets\\Scripts\\DanceCube.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DanceCube.cs",
-              "ToolTip": "E:\\UnityFiles\\UnityLearn\\UnityClass001\\Assets\\Scripts\\DanceCube.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DanceCube.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T04:59:49.771Z",
+              "WhenOpened": "2024-02-24T14:25:31.534Z",
               "EditorCaption": ""
             }
           ]
