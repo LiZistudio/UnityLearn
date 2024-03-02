@@ -46,8 +46,8 @@ public class Lesson2 : MonoBehaviour {
     public double _fire;
     public double _define;
 
+    [Space()]
     public MyClass myClass;
-
 
     [Range(0,100)]
     public double _strong;

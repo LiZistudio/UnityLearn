@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Console
   m_RootView: {fileID: 3}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 236
     height: 722.8
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -99,7 +99,7 @@ MonoBehaviour:
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: MyLayout
+  m_LastLoadedLayoutName: 
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 2383
+  controlID: 116
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 2307
+  controlID: 38
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -271,8 +271,8 @@ MonoBehaviour:
     y: 0
     width: 337.59998
     height: 722.8
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -349,9 +349,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 247bffff
-      m_LastClickedID: -34012
-      m_ExpandedIDs: 30fbffff
+      m_SelectedIDs: 3c8cffff
+      m_LastClickedID: -29636
+      m_ExpandedIDs: 98d8ffff24fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -679,9 +679,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.03161782, y: 0.028024912, z: -0.00873208}
+    m_Target: {x: 0.03161782, y: 0.028024912, z: -1.814}
     speed: 2
-    m_Value: {x: 0.03161782, y: 0.028024912, z: -0.00873208}
+    m_Value: {x: 0.03161782, y: 0.028024912, z: -1.814}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -727,13 +727,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.504
   m_Rotation:
-    m_Target: {x: 0.121572845, y: 0.3485227, z: -0.045658395, w: 0.9284442}
+    m_Target: {x: 0.029546224, y: -0.96397203, z: 0.12034026, w: 0.23620544}
     speed: 2
-    m_Value: {x: 0.12155211, y: 0.34846324, z: -0.04565061, w: 0.92828584}
+    m_Value: {x: 0.029540466, y: -0.96378416, z: 0.12031681, w: 0.23615941}
   m_Size:
-    m_Target: 1.4399003
+    m_Target: 3.4371188
     speed: 2
-    m_Value: 1.4399003
+    m_Value: 3.4371188
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -900,7 +900,8 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - "Assets/Scripts/Lesson3_Mono\u4E2D\u7684\u91CD\u8981\u5185\u5BB9"
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -917,7 +918,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: d2570000
     m_LastClickedID: 22482
-    m_ExpandedIDs: ffffffff00000000f0590000f2590000f4590000f6590000f8590000fa590000fc590000
+    m_ExpandedIDs: 00000000005a0000025a0000045a0000065a0000085a00000a5a00000c5a00000e5a0000105a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -945,18 +946,18 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000f0590000f2590000f4590000f6590000f8590000fa590000fc5900009260000098600000
+    m_ExpandedIDs: ffffffff00000000005a0000025a0000045a0000065a0000085a00000a5a00000c5a00000e5a0000105a0000525b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: "Lesson1_\u751F\u547D\u5468\u671F\u51FD\u6570"
-      m_OriginalName: "Lesson1_\u751F\u547D\u5468\u671F\u51FD\u6570"
+      m_Name: Lesson3_test
+      m_OriginalName: Lesson3_test
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 24722
+      m_UserData: 24632
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
